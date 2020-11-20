@@ -1,0 +1,82 @@
+Origen,Destino,Año,Grupos de Productos,Tema,Indicador,Valor
+Ecuador,Estados Unidos,2018,Todos los productos,Exportación, Valor del comercio (en millones de US $)-PRINCIPALES CINCO EXPORTADORES,6671.509
+Ecuador,Perú,2018,Todos los productos,Exportación, Valor del comercio (en millones de US $)-PRINCIPALES CINCO EXPORTADORES,1615.10837
+Ecuador,China,2020,Todos los productos,Exportación, Valor del comercio (en millones de US $)-PRINCIPALES CINCO EXPORTADORES,1494.317067
+Ecuador,Chile,2018,Todos los productos,Exportación, Valor del comercio (en millones de US $)-PRINCIPALES CINCO EXPORTADORES,1466.665106
+Ecuador,Panamá,2021,Todos los productos,Exportación, Valor del comercio (en millones de US $)-PRINCIPALES CINCO EXPORTADORES,1243.5433
+Ecuador,Estados Unidos,2020,Todos los productos,Importación,Valor del comercio (en millones de US $)-PRINCIPALES CINCO IMPORTADORES,5010.624686
+Ecuador,China,2018,Todos los productos,Importación,Valor del comercio (en millones de US $)-PRINCIPALES CINCO IMPORTADORES,4352.591612
+Ecuador,Colombia,2018,Todos los productos,Importación,Valor del comercio (en millones de US $)-PRINCIPALES CINCO IMPORTADORES,1809.245097
+Ecuador,Panamá,2018,Todos los productos,Importación,Valor del comercio (en millones de US $)-PRINCIPALES CINCO IMPORTADORES,1126.057314
+Ecuador,Brasil,2018,Todos los productos,Importación,Valor del comercio (en millones de US $)-PRINCIPALES CINCO IMPORTADORES,981.3998423
+Ecuador,Mundo,2019,Reino animal,Exportación,Exportaciones (en millones de US $),3561.480092
+Ecuador,Mundo,2018,Reino vegetal,Exportación,Exportaciones (en millones de US $),4705.404734
+Ecuador,Mundo,2018,Productos alimenticios,Exportación,Exportaciones (en millones de US $),2635.584876
+Ecuador,Mundo,2018,Minerales,Exportación,Exportaciones (en millones de US $),108.8852653
+Ecuador,Mundo,2018,Combustibles,Exportación,Exportaciones (en millones de US $),8806.561237
+Ecuador,Mundo,2018,Productos químicos,Exportación,Exportaciones (en millones de US $),110.9562968
+Ecuador,Mundo,2018,Plástico o caucho,Exportación,Exportaciones (en millones de US $),169.9267734
+Ecuador,Mundo,2018,Cueros y pieles,Exportación,Exportaciones (en millones de US $),8.62088694
+Ecuador,Mundo,2018,Madera,Exportación,Exportaciones (en millones de US $),457.2606687
+Ecuador,Mundo,2018,Textiles y prendas de vestir,Exportación,Exportaciones (en millones de US $),98.6384125
+Ecuador,Mundo,2018,Calzado,Exportación,Exportaciones (en millones de US $),36.16271903
+Ecuador,Mundo,2019,Piedras y vidrio,Exportación,Exportaciones (en millones de US $),217.2839269
+Ecuador,Mundo,2019,Metales,Exportación,Exportaciones (en millones de US $),350.8795537
+Ecuador,Mundo,2019,Maquinaria y electricidad,Exportación,Exportaciones (en millones de US $),211.992294
+Ecuador,Mundo,2018,Transporte,Exportación,Exportaciones (en millones de US $),82.11775274
+Ecuador,Mundo,2021,Varios,Exportación,Exportaciones (en millones de US $),44.37833305
+Ecuador,Mundo,2018,Materias primas,Exportación,Exportaciones (en millones de US $),15917.75939
+Ecuador,Mundo,2020,Bienes intermedios,Exportación,Exportaciones (en millones de US $),1296.998636
+Ecuador,Mundo,2018,Bienes de consumo,Exportación,Exportaciones (en millones de US $),4144.152707
+Ecuador,Mundo,2018,Bienes de capital,Exportación,Exportaciones (en millones de US $),243.8499038
+Ecuador,Mundo,2018,Materias primas,Importación,Importaciones (en millones de US $),1036.161285
+Ecuador,Mundo,2018,Bienes intermedios,Importación,Importaciones (en millones de US $),7201.025985
+Ecuador,Mundo,2019,Bienes de consumo,Importación,Importaciones (en millones de US $),9074.798602
+Ecuador,Mundo,2018,Bienes de capital,Importación,Importaciones (en millones de US $),5597.55814
+Ecuador,Mundo,2020,Todos los productos,Exportación,Exportaciones (en millones de US $),21606.13382
+Ecuador,Mundo,2020,Todos los productos,Importación,Importaciones (en millones de US $),23019.65262
+Ecuador,Mundo,2018,Todos los productos,Aranceles,Importaciones exentas de aranceles (en miles de US$),10690995.4
+Ecuador,Estados Unidos,2018,Todos los productos,Exportación,Proporción de asociados (%) - PRINCIPALES CINCO EXPORTADORES,30.8778
+Ecuador,Perú,2018,Todos los productos,Exportación,Proporción de asociados (%) - PRINCIPALES CINCO EXPORTADORES,7.4752
+Ecuador,China,2019,Todos los productos,Exportación,Proporción de asociados (%) - PRINCIPALES CINCO EXPORTADORES,6.9162
+Ecuador,Chile,2018,Todos los productos,Exportación,Proporción de asociados (%) - PRINCIPALES CINCO EXPORTADORES,6.7882
+Ecuador,Panamá,2021,Todos los productos,Exportación,Proporción de asociados (%) - PRINCIPALES CINCO EXPORTADORES,5.7555
+Ecuador,Estados Unidos,2018,Todos los productos,Importación,Proporción de asociados (%) - PRINCIPALES CINCO IMPORTADORES,21.7667
+Ecuador,China,2018,Todos los productos,Importación,Proporción de asociados (%) - PRINCIPALES CINCO IMPORTADORES,18.9082
+Ecuador,Colombia,2018,Todos los productos,Importación,Proporción de asociados (%) - PRINCIPALES CINCO IMPORTADORES,7.8596
+Ecuador,Panamá,2018,Todos los productos,Importación,Proporción de asociados (%) - PRINCIPALES CINCO IMPORTADORES,4.8917
+Ecuador,Brasil,2018,Todos los productos,Importación,Proporción de asociados (%) - PRINCIPALES CINCO IMPORTADORES,4.2633
+Ecuador,Mundo,2018,Reino animal,Exportación,Exportaciones - Product share(en %),16.4837
+Ecuador,Mundo,2018,Reino vegetal,Exportación,Exportaciones - Product share(en %),21.7781
+Ecuador,Mundo,2018,Productos alimenticios,Exportación,Exportaciones - Product share(en %),12.1983
+Ecuador,Mundo,2019,Minerales,Exportación,Exportaciones - Product share(en %),0.504
+Ecuador,Mundo,2018,Combustibles,Exportación,Exportaciones - Product share(en %),40.7595
+Ecuador,Mundo,2020,Productos químicos,Exportación,Exportaciones - Product share(en %),0.5135
+Ecuador,Mundo,2018,Plástico o caucho,Exportación,Exportaciones - Product share(en %),0.7865
+Ecuador,Mundo,2019,Cueros y pieles,Exportación,Exportaciones - Product share(en %),0.0399
+Ecuador,Mundo,2018,Madera,Exportación,Exportaciones - Product share(en %),2.1163
+Ecuador,Mundo,2018,Textiles y prendas de vestir,Exportación,Exportaciones - Product share(en %),0.4565
+Ecuador,Mundo,2019,Calzado,Exportación,Exportaciones - Product share(en %),0.1674
+Ecuador,Mundo,2018,Piedras y vidrio,Exportación,Exportaciones - Product share(en %),1.0057
+Ecuador,Mundo,2019,Metales,Exportación,Exportaciones - Product share(en %),1.624
+Ecuador,Mundo,2019,Maquinaria y electricidad,Exportación,Exportaciones - Product share(en %),0.9812
+Ecuador,Mundo,2019,Transporte,Exportación,Exportaciones - Product share(en %),0.3801
+Ecuador,Mundo,2018,Varios,Exportación,Exportaciones - Product share(en %),0.2054
+Ecuador,Mundo,2020,Materias primas,Exportación,Exportaciones - Product share(en %),73.6724
+Ecuador,Mundo,2020,Bienes intermedios,Exportación,Exportaciones - Product share(en %),6.0029
+Ecuador,Mundo,2020,Bienes de consumo,Exportación,Exportaciones - Product share(en %),19.1804
+Ecuador,Mundo,2020,Bienes de capital,Exportación,Exportaciones - Product share(en %),1.1286
+Ecuador,Mundo,2020,Materias primas,Importación,Importaciones - Product share(en %),4.5012
+Ecuador,Mundo,2018,Bienes intermedios,Importación,Importaciones - Product share(en %),31.2821
+Ecuador,Mundo,2018,Bienes de consumo,Importación,Importaciones - Product share(en %),39.422
+Ecuador,Mundo,2020,Bienes de capital,Importación,Importaciones - Product share(en %),24.3164
+Ecuador,Mundo,2018,Materias primas,Aranceles,Promedio ponderado de aranceles (%),1.378811304
+Ecuador,Mundo,2018,Bienes intermedios,Aranceles,Promedio ponderado de aranceles (%),2.355360891
+Ecuador,Mundo,2018,Bienes de consumo,Aranceles,Promedio ponderado de aranceles (%),13.52717477
+Ecuador,Mundo,2018,Bienes de capital,Aranceles,Promedio ponderado de aranceles (%),6.963032865
+Ecuador,Mundo,2018,Todos los productos,Trade Indicator,Crecimiento mundial (%),3.499290229
+Ecuador,Mundo,2020,Todos los productos,Trade Indicator,Crecimiento del país (%),4.611456173
+Ecuador,Mundo,2018,Todos los productos,Aranceles,Promedio simple de aranceles (%),9.483318928
+Ecuador,Mundo,2020,Todos los productos,Aranceles,Promedio ponderado de aranceles (%),7.354558096
+Ecuador,Mundo,2020,Todos los productos,Aranceles,Tasa máxima de aranceles (%),1116.80603
+Ecuador,Mundo,2020,Todos los productos,Aranceles,Proporción de líneas arancelarias exentas de aranceles (%),51.04145692
